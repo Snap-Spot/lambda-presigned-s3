@@ -1,6 +1,7 @@
 # presigned-go
 ## Summary
 - 스냅스팟 웹서비스의 안전한 사진 업로드와 메인 서버의 업로드 딜레이를 줄이기 위해 AWS의 Lambda Function으로 S3 Presigned URL을 발급하고, API Gateway를 통해 호출합니다.
+- 빠른 속도 보장을 위해 Go를 활용하였습니다.
 
 ## Architecture
 <div align=center>
